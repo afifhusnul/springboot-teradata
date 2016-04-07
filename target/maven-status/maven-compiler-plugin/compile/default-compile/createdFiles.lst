@@ -1,0 +1,4 @@
+com\teradata\entity\RatePlan.class
+com\teradata\controller\RatePlanController.class
+com\teradata\repository\RatePlanRepository.class
+com\teradata\Application.class
